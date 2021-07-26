@@ -29,7 +29,7 @@
  #_form_7_ ._field-wrapper { position:relative; }
  #_form_7_ ._inline-style { float:left; }
  #_form_7_ ._inline-style input[type="text"] { width:150px; }
- #_form_7_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:20px; }
+ #_form_7_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:0px; }
  #_form_7_ ._form_element img._form-image { max-width:100%; }
  #_form_7_ ._form_element ._form-fieldset { border:0; padding:0.01em 0 0 0; margin:0; min-width:0; }
  #_form_7_ ._clear-element { clear:left; }
