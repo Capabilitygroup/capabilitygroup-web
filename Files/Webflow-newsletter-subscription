@@ -28,7 +28,7 @@
  #_form_7_ ._form_element input[type="text"],#_form_7_ ._form_element input[type="date"],#_form_7_ ._form_element select,#_form_7_ ._form_element textarea:not(.g-recaptcha-response) { display:block; width:100%; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; font-family:inherit; }
  #_form_7_ ._field-wrapper { position:relative; }
  #_form_7_ ._inline-style { float:left; }
- #_form_7_ ._inline-style input[type="text"] { width:500px; }
+ #_form_7_ ._inline-style input[type="text"] { width:150px; }
  #_form_7_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:20px; }
  #_form_7_ ._form_element img._form-image { max-width:100%; }
  #_form_7_ ._form_element ._form-fieldset { border:0; padding:0.01em 0 0 0; margin:0; min-width:0; }
@@ -66,9 +66,9 @@
  #_form_7_ ._row input[type="checkbox"] + span label { display:inline; }
  #_form_7_ ._row span label { margin:0 !important; width:initial !important; vertical-align:middle !important; }
  #_form_7_ ._form-image { max-width:100%; height:auto !important; }
- #_form_7_ input[type="text"] { padding-left:10px; padding-right:0px; font-size:16px; line-height:1.3em; -webkit-appearance:none; }
+ #_form_7_ input[type="text"] { padding-left:0px; padding-right:0px; font-size:16px; line-height:1.3em; -webkit-appearance:none; }
  #_form_7_ input[type="radio"],#_form_7_ input[type="checkbox"] { display:inline-block; width:1.3em; height:1.3em; font-size:1em; margin:0 0.3em 0 0; vertical-align:baseline; }
- #_form_7_ button[type="submit"] { padding:20px; font-size:1.5em; }
+ #_form_7_ button[type="submit"] { padding:0px; font-size:1.5em; }
  #_form_7_ ._inline-style { margin:20px 0 0 !important; }
  }
  #_form_7_ { position:relative; text-align:left; margin:25px auto 0; padding:20px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1; background:transparent !important; border:0px solid #b0b0b0 !important; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#000 !important; }
