@@ -15,10 +15,10 @@
  #_form_7_ ._form-body { margin-bottom: 0px; }
  #_form_7_ ._form-image-left { width:150px; float:left; }
  #_form_7_ ._form-content-right { margin-left:0px; }
- #_form_7_ ._form-branding { color:#fff; font-size:10px; clear:both; text-align:left; margin-top:30px; font-weight:100; }
- #_form_7_ ._form-branding ._logo { display:block; width:130px; height:14px; margin-top:6px; background-image:url('https://d226aj4ao1t61q.cloudfront.net/hh9ujqgv5_aclogo_li.png'); background-size:130px auto; background-repeat:no-repeat; }
+ #_form_7_ ._form-branding { color:#fff; font-size:10px; clear:both; text-align:left; margin-top:0px; font-weight:100; }
+ #_form_7_ ._form-branding ._logo { display:block; width:130px; height:14px; margin-top:0px; background-image:url('https://d226aj4ao1t61q.cloudfront.net/hh9ujqgv5_aclogo_li.png'); background-size:130px auto; background-repeat:no-repeat; }
  #_form_7_ .form-sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0, 0, 0, 0); border:0; }
- #_form_7_ ._form-label,#_form_7_ ._form_element ._form-label { font-weight:bold; margin-bottom:5px; display:block; }
+ #_form_7_ ._form-label,#_form_7_ ._form_element ._form-label { font-weight:bold; margin-bottom:0px; display:block; }
  #_form_7_._dark ._form-branding { color:#333; }
  #_form_7_._dark ._form-branding ._logo { background-image:url('https://d226aj4ao1t61q.cloudfront.net/jftq2c8s_aclogo_dk.png'); }
  #_form_7_ ._form_element { position:relative; margin-bottom:10px; font-size:0; max-width:100%; }
@@ -29,12 +29,12 @@
  #_form_7_ ._field-wrapper { position:relative; }
  #_form_7_ ._inline-style { float:left; }
  #_form_7_ ._inline-style input[type="text"] { width:150px; }
- #_form_7_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:20px; }
+ #_form_7_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:0px; }
  #_form_7_ ._form_element img._form-image { max-width:100%; }
  #_form_7_ ._form_element ._form-fieldset { border:0; padding:0.01em 0 0 0; margin:0; min-width:0; }
  #_form_7_ ._clear-element { clear:left; }
  #_form_7_ ._full_width { width:100%; }
- #_form_7_ ._form_full_field { display:block; width:100%; margin-bottom:10px; }
+ #_form_7_ ._form_full_field { display:block; width:100%; margin-bottom:0px; }
  #_form_7_ input[type="text"]._has_error,#_form_7_ textarea._has_error { border:#f37c7b 1px solid; }
  #_form_7_ input[type="checkbox"]._has_error { outline:#f37c7b 1px solid; }
  #_form_7_ ._error { display:block; position:absolute; font-size:14px; z-index:10000001; }
