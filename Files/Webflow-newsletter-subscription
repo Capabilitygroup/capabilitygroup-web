@@ -80,7 +80,7 @@
  #_form_7_._inline-style input[type="text"],#_form_7_._inline-style input[type="date"] { padding:10px 12px; }
  #_form_7_._inline-style button._inline-style { position:relative; top:27px; }
  #_form_7_._inline-style p { margin:0; }
- #_form_7_._inline-style ._button-wrapper { position:relative; margin:23px 0px 0 0px; }
+ #_form_7_._inline-style ._button-wrapper { position:left; margin:23px 0px 0 0px; }
  #_form_7_ ._form-thank-you { position:relative; left:0; right:0; text-align:center; font-size:18px; }
  @media all and (min-width:320px) and (max-width:667px) { #_form_7_._inline-form._inline-style ._inline-style._button-wrapper { margin-top:20px !important; margin-left:0 !important; }
  }
