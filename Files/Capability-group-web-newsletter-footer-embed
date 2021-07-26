@@ -71,7 +71,7 @@
  #_form_7_ button[type="submit"] { padding:20px; font-size:1.5em; }
  #_form_7_ ._inline-style { margin:20px 0 0 !important; }
  }
- #_form_7_ { position:relative; text-align:left; margin:25px auto 0; padding:20px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1; background:transparent !important; border:0px solid #b0b0b0 !important; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#000 !important; }
+ #_form_7_ { position:relative; text-align:left; margin:25px auto 0; padding:20px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1; background:#fff !important; border:0px solid #b0b0b0 !important; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#000 !important; }
  #_form_7_._inline-form,#_form_7_._inline-form ._form-content,#_form_7_._inline-form input,#_form_7_._inline-form ._submit { font-family:arial, helvetica, sans, 'IBM Plex Sans', arial, sans-serif; }
  #_form_7_ ._form-title { font-size:22px; line-height:22px; font-weight:600; margin-bottom:0; }
  #_form_7_:before,#_form_7_:after { content:" "; display:table; }
