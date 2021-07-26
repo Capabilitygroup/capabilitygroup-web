@@ -42,7 +42,7 @@
  #_form_7_ ._error._below { padding-top:4px; top:100%; right:0; }
  #_form_7_ ._error._above ._error-arrow { bottom:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-top:5px solid #f37c7b; }
  #_form_7_ ._error._below ._error-arrow { top:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-bottom:5px solid #f37c7b; }
- #_form_7_ ._error-inner { padding:8px 12px; background-color:#f37c7b; font-size:14px; font-family:arial, sans-serif; color:#fff; text-align:center; text-decoration:none; -webkit-border-radius:0px; -moz-border-radius:0px; border-radius:0px; }
+ #_form_7_ ._error-inner { padding:8px 12px; background-color:#f37c7b; font-size:14px; font-family:arial, sans-serif; color:#fff; text-align:center; text-decoration:none; -webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px; }
  #_form_7_ ._error-inner._form_error { margin-bottom:5px; text-align:left; }
  #_form_7_ ._button-wrapper ._error-inner._form_error { position:static; }
  #_form_7_ ._error-inner._no_arrow { margin-bottom:10px; }
@@ -66,7 +66,7 @@
  #_form_7_ ._row input[type="checkbox"] + span label { display:inline; }
  #_form_7_ ._row span label { margin:0 !important; width:initial !important; vertical-align:middle !important; }
  #_form_7_ ._form-image { max-width:100%; height:auto !important; }
- #_form_7_ input[type="text"] { padding-left:10px; padding-right:10px; font-size:16px; line-height:1.3em; -webkit-appearance:none; }
+ #_form_7_ input[type="text"] { padding-left:10px; padding-right:0px; font-size:16px; line-height:1.3em; -webkit-appearance:none; }
  #_form_7_ input[type="radio"],#_form_7_ input[type="checkbox"] { display:inline-block; width:1.3em; height:1.3em; font-size:1em; margin:0 0.3em 0 0; vertical-align:baseline; }
  #_form_7_ button[type="submit"] { padding:20px; font-size:1.5em; }
  #_form_7_ ._inline-style { margin:20px 0 0 !important; }
